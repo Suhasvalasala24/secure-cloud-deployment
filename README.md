@@ -1,10 +1,10 @@
-# ☁️ Secure Cloud Deployment on AWS 🔐
+# ☁️ Secure Cloud Deployment on AWS 
 
 A complete project to deploy and secure a web application on AWS EC2 using best practices in cloud security and infrastructure monitoring.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project demonstrates a secure deployment of a Linux web server on AWS EC2. It includes:
 
@@ -17,7 +17,7 @@ This project demonstrates a secure deployment of a Linux web server on AWS EC2. 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **AWS Services:** EC2, IAM, S3, CloudTrail, KMS
 - **Security Tools:** UFW, Fail2Ban
@@ -26,19 +26,19 @@ This project demonstrates a secure deployment of a Linux web server on AWS EC2. 
 
 ---
 
-## 🔧 What I Implemented
+## What I Implemented
 
-- ✅ Launched EC2 instance with SSH key pair
-- ✅ Installed Apache web server
-- ✅ Configured UFW firewall and Fail2Ban
-- ✅ Created and attached IAM role for S3 access
-- ✅ Interacted with S3 using AWS CLI (upload, download, delete)
-- ✅ Enabled CloudTrail and verified logs
-- ✅ Captured and documented CloudTrail events
+- Launched EC2 instance with SSH key pair
+- Installed Apache web server
+- Configured UFW firewall and Fail2Ban
+- Created and attached IAM role for S3 access
+- Interacted with S3 using AWS CLI (upload, download, delete)
+- Enabled CloudTrail and verified logs
+- Captured and documented CloudTrail events
 
 ---
 
-## 🧪 Sample AWS CLI Commands
+## Sample AWS CLI Commands
 
 ```bash
 # Upload a file to S3
